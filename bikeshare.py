@@ -1,3 +1,9 @@
+"""
+This python application was created as a deliverable for the 
+Programming for Data Science with Python
+Nanodegree 07/01/2021 by Daniel Tickell
+"""
+
 import time
 import pandas as pd
 import numpy as np
