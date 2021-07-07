@@ -295,3 +295,6 @@ def main():
 
 if __name__ == "__main__":
         main()
+"""
+Creating a footer text block to refactor the end of the python script
+"""
