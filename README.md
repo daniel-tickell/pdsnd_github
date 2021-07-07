@@ -11,7 +11,11 @@ Python application to analyze bikeshare date from Chichago, New York City and Wa
 
 ### Files used
 * bikeshare.py - Python file to perform a series of analysis on the csv files.
+* washington.csv - Data file for Washington DC
+* new_york_city.csv - Data file for New York City
+* chicago.csv - Data file for Chicago.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This program was created as a deliverable for Module 2 - Python Programming, as part of the Programming for Data Science with Python
+Nanodegree
 
