@@ -10,7 +10,7 @@ Bikeshare Python Program
 Python application to analyze bikeshare date from Chichago, New York City and Washington
 
 ### Files used
-Include the files used
+* bikeshare.py - Python file to perform a series of analysis on the csv files.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
